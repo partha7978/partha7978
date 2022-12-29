@@ -8,10 +8,21 @@ Experienced in designing and developing web applications. All coding projects ar
 I'm forward to being part of the challenging environment that provides me the opportunity to improve my skills in all areas while contributing to the growth of the organization.
 
 <p align="left">
-        <a href="https://github.com/partha7978?tab=repositories&sort=stargazers">
+        <!-- <a href="https://github.com/partha7978?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/partha7978?color=6A4DFF&style=for-the-badge&labelColor=6A4DFF&logo=star"/>
         </a>
         <a href="https://github.com/partha7978?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/partha7978?color=FF7070&labelColor=FF7070&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/partha7978?color=FF7070&labelColor=FF7070&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> -->
         </a>
+        <a href="mailto:parthasarathimuduli10@gmail.com">
+         <img alt="followers" title="Send an email" src="https://custom-icon-badges.demolab.com/badge/Email-orange?style=for-the-badge&logo=gmail1&logoColor=white&labelColor=FF2929 &color=FF2929 "/>
+        </a>
+        <a href="https://www.linkedin.com/in/partha-sarathi-muduli-1738921b9/">
+         <img alt="followers" title="Linkedin" src="https://custom-icon-badges.demolab.com/badge/Linkedin-orange?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3898FF&color=3898FF"/>
+        </a>
+        <a href="https://www.instagram.com/parth.a___/">
+         <img alt="followers" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF149D&color=FF149D"/>
+        </a>
+
+
 </p>
