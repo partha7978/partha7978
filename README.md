@@ -27,10 +27,7 @@ I'm forward to being part of the challenging environment that provides me the op
 
 ---
 
-<br/>
-
 ### 🛠️ Languages and Tools
-
 
 <img align="left" alt="Java" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
@@ -58,11 +55,8 @@ I'm forward to being part of the challenging environment that provides me the op
 
 <br/>
 <br/>
-<br/>
-
 
 ### 📘My Top Projects    
-
 
 <p align="left">
     <a href="https://github.com/partha7978/world-affairs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=partha7978&repo=world-affairs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="world affairs"></a>
