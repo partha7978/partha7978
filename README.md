@@ -27,33 +27,43 @@ I'm forward to being part of the challenging environment that provides me the op
 
 ---
 
+<br/>
+
 ### 🛠️ Languages and Tools
 
 
 <img align="left" alt="Java" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-<img align="left" alt="Java" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />     
+<img align="left" alt="React" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />     
 
-<img align="left" alt="Java" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="Html" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
-<img align="left" alt="Java" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Css" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-<img align="left" alt="Java" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="JavaScript" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-<img align="left" alt="Java" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Node.js" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
           
+<img align="left" alt="Material UI" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 
-<img align="left" alt="Java" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+<img align="left" alt="Bootstrap" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
-<img align="left" alt="Java" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="MySql" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-<img align="left" alt="Java" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
-<img align="left" alt="Java" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C++" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
           
-<img align="left" alt="Java" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Github" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<img align="left" alt="Java" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          
-          
+<img align="left" alt="Git" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
+<br/>
+<br/>
+<br/>
+
+
+### 📘My Top Projects    
+
+
+<p align="left">
+    <a href="https://github.com/partha7978/world-affairs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=partha7978&repo=world-affairs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="world affairs"></a>
+</p>
