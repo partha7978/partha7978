@@ -67,4 +67,5 @@ I'm forward to being part of the challenging environment that provides me the op
 
 ### 📊 Stats
 
-![Partha's GitHub stats](https://github-readme-stats.vercel.app/api?username=partha7978&show_icons=true&theme=gruvbox)
+![Partha's GitHub stats](https://github-readme-stats.vercel.app/api?username=partha7978&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)
+
