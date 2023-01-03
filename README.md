@@ -69,4 +69,13 @@ I'm forward to being part of the challenging environment that provides me the op
 
 ![Partha's GitHub stats](https://github-readme-stats.vercel.app/api?username=partha7978&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)
 
+<details>
+    <summary>📈 More Stats</summary>
+
+<a href="https://github.com/partha7978/github-readme-streak-stats">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Partha's streak" src="https://streak-stats.demolab.com/?user=partha7978&theme=monokai-metallian&hide_border=true"/>
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=partha7978&layout=compact&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
