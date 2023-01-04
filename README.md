@@ -31,7 +31,7 @@ I'm forward to being part of the challenging environment that provides me the op
 
 <img align="left" alt="Java" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
-<img align="left" alt="React" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />     
+<img align="left" alt="React" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 <img align="left" alt="Html" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
@@ -56,26 +56,22 @@ I'm forward to being part of the challenging environment that provides me the op
 <br/>
 <br/>
 
-### 📘My Top Projects    
+### 📘My Top Projects
 
 <p align="left">
     <a href="https://github.com/partha7978/world-affairs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=partha7978&repo=world-affairs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="world affairs"></a>
     <a href="https://github.com/partha7978/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=partha7978&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="world affairs"></a>
 </p>
 
-#
+<details> 
+    <summary><h2>📊 My GitHub Stats</h2></summary>
 
-### 📊 Stats
 
-![Partha's GitHub stats](https://github-readme-stats.vercel.app/api?username=partha7978&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)
+  <h3>💻 GitHub Profile Stats</h3>
 
-<details>
-    <summary>📈 More Stats</summary>
+<a href="https://github.com/partha7978"><img alt="Partha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=partha7978&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
-<a href="https://github.com/partha7978/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Partha's streak" src="https://streak-stats.demolab.com/?user=partha7978&theme=monokai-metallian&hide_border=true"/>
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=partha7978&layout=compact&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/partha7978"><img alt="Partha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=partha7978&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<br/>
 
 </details>
