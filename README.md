@@ -84,3 +84,9 @@ I'm forward to being part of the challenging environment that provides me the op
   <a href="https://github.com/partha7978"><img alt="Partha's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=partha7978&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
+
+<details>
+    <summary><h3>🏷️Holopin Badges</h3></summary>
+    
+  [![An image of @parth_a's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parth_a)](https://holopin.io/@parth_a)
+</details>
