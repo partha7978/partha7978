@@ -5,7 +5,7 @@
 An aspiring software engineer who just completed his bachelor's degree in Information Technology.
 Experienced in designing and developing web applications. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-I'm forward to being part of the challenging environment that provides me the opportunity to improve my skills in all areas while contributing to the growth of the organization.
+I am an Associate Analyst, currently working with awesome folks at Deloitte. I'm forward to being part of the challenging environment that provides me the opportunity to improve my skills in all areas while contributing to the growth of the organization.
 
 <p align="left">
         <!-- <a href="https://github.com/partha7978?tab=repositories&sort=stargazers">
