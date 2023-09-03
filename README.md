@@ -11,6 +11,7 @@ Tech Stack: React.js, TypeScript, Html, CSS, SASS, JavaScript, Material UI, MySq
 
 I'm forward to being part of the challenging environment that provides me the opportunity to improve my skills in all areas while contributing to the growth of the organization.
 
+
 <p align="left">
         <!-- <a href="https://github.com/partha7978?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/partha7978?color=6A4DFF&style=for-the-badge&labelColor=6A4DFF&logo=star"/>
