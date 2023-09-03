@@ -2,8 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2000&pause=1000&color=8868F7&width=435&lines=Aspiring+Software+Engineer;Web+Developer;Gamer;Video+Editor)](https://git.io/typing-svg)
 
-An aspiring software engineer who just completed his bachelor's degree in Information Technology.
+An aspiring frontend engineer who just completed his bachelor's degree in Information Technology.
 Experienced in designing and developing web applications. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+
+I'm currently working with awesome folks at Deloitte as an Associate Analyst. 
+Key skills: Problem-Solving, Frontend Web Development
+Tech Stack: React.js, TypeScript, Html, CSS, SASS, JavaScript, Material UI, MySql, Java
 
 I'm forward to being part of the challenging environment that provides me the opportunity to improve my skills in all areas while contributing to the growth of the organization.
 
@@ -29,9 +33,14 @@ I'm forward to being part of the challenging environment that provides me the op
 
 ### 🛠️ Languages and Tools
 
-<img align="left" alt="Java" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
 <img align="left" alt="React" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<img align="left" alt="TypeScript" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+<img align="left" alt="Redux" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+
+
+<img align="left" alt="Sass" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
 <img align="left" alt="Html" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
@@ -47,6 +56,8 @@ I'm forward to being part of the challenging environment that provides me the op
 
 <img align="left" alt="MySql" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
+<img align="left" alt="Java" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
 <img align="left" alt="C++" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
           
 <img align="left" alt="Github" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -59,8 +70,9 @@ I'm forward to being part of the challenging environment that provides me the op
 ### 📘My Top Projects
 
 <p align="left">
-    <a href="https://github.com/partha7978/world-affairs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=partha7978&repo=world-affairs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="world affairs"></a>
-    <a href="https://github.com/partha7978/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=partha7978&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="world affairs"></a>
+<a href="https://github.com/partha7978/quizApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=partha7978&repo=quizApp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Youtube Clone"></a>
+    <a href="https://github.com/partha7978/world-affairs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=partha7978&repo=world-affairs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="World Aaffairs"></a>
+    <a href="https://github.com/partha7978/youtube_clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=partha7978&repo=youtube_clone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Youtube Clone"></a>
 </p>
 
 <details> 
