@@ -1,15 +1,17 @@
 # 👨🏻‍💻 Partha Sarathi Muduli
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2000&pause=1000&color=8868F7&width=435&lines=Aspiring+Software+Engineer;Web+Developer;Gamer;Video+Editor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2000&pause=1000&color=8868F7&width=435&lines=Frontend+Engineer;Gamer;Video+Editor)](https://git.io/typing-svg)
 
-An aspiring frontend engineer who just completed his bachelor's degree in Information Technology.
-Experienced in designing and developing web applications. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+👋 Greetings! I'm Partha Sarathi Muduli, a frontend engineer at Deloitte Digital with a passion for crafting exceptional web experiences.
 
-I'm currently working with awesome folks at Deloitte as an Associate Analyst. 
-Key skills: Problem-Solving, Frontend Web Development
-Tech Stack: React.js, TypeScript, Html, CSS, SASS, JavaScript, Material UI, MySql, Java
+💼 Currently excelling in my role at Deloitte Digital, I specialize in frontend development, leveraging technologies like TypeScript,  React, Material UI, Jest, and Storybook. 
 
-I'm forward to being part of the challenging environment that provides me the opportunity to improve my skills in all areas while contributing to the growth of the organization.
+🛠️ Beyond my professional journey, I bring over 2 years of personal experience in frontend engineering. My key skills lie in problem-solving and web development, demonstrated through a tech stack that includes Java, React.js, HTML, CSS, SASS, JavaScript, TypeScript, Redux Toolkit, Material UI, MySQL, and Jest.
+
+🎯 I'm eager to be part of a challenging environment that nurtures continuous growth and improvement across all aspects. Contributing my skills and dedication to an organization's advancement is my primary objective.
+
+🌐 Let's connect and explore opportunities to collaborate, allowing me to make a meaningful contribution to the realm of frontend engineering!
+
 
 
 <p align="left">
@@ -34,36 +36,43 @@ I'm forward to being part of the challenging environment that provides me the op
 
 ### 🛠️ Languages and Tools
 
-<img align="left" alt="React" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="React" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<img align="left" alt="TypeScript" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Redux" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 
-<img align="left" alt="Redux" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align="left" alt="TypeScript" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
+<img align="left" alt="Redux" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 
-<img align="left" alt="Sass" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="Redux" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 
-<img align="left" alt="Html" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="Redux" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" />
 
-<img align="left" alt="Css" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Sass" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
-<img align="left" alt="JavaScript" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Html" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
-<img align="left" alt="Node.js" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Css" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+<img align="left" alt="JavaScript" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<img align="left" alt="Node.js" width="35px" height="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
           
-<img align="left" alt="Material UI" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+<img align="left" alt="Material UI" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 
-<img align="left" alt="Bootstrap" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Redux" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
-<img align="left" alt="MySql" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Bootstrap" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
-<img align="left" alt="Java" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="MySql" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-<img align="left" alt="C++" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Java" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+<img align="left" alt="C++" width="35px" height="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
           
-<img align="left" alt="Github" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Github" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<img align="left" alt="Git" width="35px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="35px" height="45px" style="padding-right:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br/>
 <br/>
@@ -71,7 +80,7 @@ I'm forward to being part of the challenging environment that provides me the op
 ### 📘My Top Projects
 
 <p align="left">
-<a href="https://github.com/partha7978/quizApp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=partha7978&repo=quizApp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Youtube Clone"></a>
+<a href="https://github.com/partha7978/quizApp](https://github.com/partha7978/video-conferencing-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=partha7978&repo=video-conferencing-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Video Conference App"></a>
     <a href="https://github.com/partha7978/world-affairs"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=partha7978&repo=world-affairs&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="World Aaffairs"></a>
     <a href="https://github.com/partha7978/youtube_clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=partha7978&repo=youtube_clone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Youtube Clone"></a>
 </p>
